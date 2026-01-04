@@ -1,0 +1,8 @@
+[submodule "niri"]
+	path = niri
+	url = git@github.com:biancaitian/configurations.git
+	branch = niri
+[submodule "hypr"]
+	path = hypr
+	url = git@github.com:biancaitian/configurations.git
+	branch = hypr
